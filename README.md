@@ -1,6 +1,12 @@
-## Hi there 👋
+Hi there and Welcome! 👋
 
-I am currently studuing Computer Engieering at Åbo Akademi University. 
+## whoami 
+I am currently studuing Computer Engieering at Åbo Akademi University. I like evrything about computers and during my freetime a play I lot of strategy games.  
+
+
+
+
+
 
 <!--
 **rkonti/rkonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
