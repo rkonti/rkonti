@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently studuing Computer Engieering at Åbo Akademi University. 
+
 <!--
 **rkonti/rkonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
