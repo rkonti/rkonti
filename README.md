@@ -1,7 +1,7 @@
 Hi there and Welcome! 👋
 
 ## whoami 
-I am currently studuing Computer Engieering at Åbo Akademi University. I like evrything about computers and during my freetime a play I lot of strategy games.  
+I am currently studuing Computer Engieering at Åbo Akademi University. I like everything about computers and during my freetime a play I lot of strategy games.  
 
 
 
