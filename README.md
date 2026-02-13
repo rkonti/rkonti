@@ -2,7 +2,7 @@ Hi there and Welcome! 👋
 
 ## whoami 
 I am currently studying Computer Engineering at Åbo Akademi University. I like everything about computers and during my freetime I play a lot of strategy games.
- * Currently working on learning kubernetes and java programing knowlage.
+ * Currently working on my kubernetes and java knowlage.
 
 ## Reach me 
 Email: robin.kontinen@gmail.com
