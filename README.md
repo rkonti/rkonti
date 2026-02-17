@@ -2,12 +2,20 @@ Hi there and Welcome! 👋
 
 ## whoami 
 I am currently studying Computer Engineering at Åbo Akademi University. I like everything about computers and during my freetime I play a lot of strategy games.
- * Currently working on my kubernetes and java knowlage.
+ * Currently working on my kubernetes and my backend knowlage.
 
 ## Reach me 
 Email: robin.kontinen@gmail.com
 
 Linkedin: https://www.linkedin.com/in/robin-kontinen/
+
+## Tools I use 
+Operating system: Arch Linux
+
+Text editor: NeoVim 
+
+Terminal: Ghostty (no need for tmux, allready built in)
+
 
 
 
