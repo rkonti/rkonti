@@ -14,7 +14,7 @@ Operating system: Arch Linux
 
 Text editor: NeoVim 
 
-Terminal: Ghostty (no need for tmux, allready built in)
+Terminal: Ghostty 
 
 
 
