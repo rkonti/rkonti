@@ -12,8 +12,6 @@ Linkedin: https://www.linkedin.com/in/robin-kontinen/
 ## Tools I use 
 Operating system: Arch Linux
 
-Text editor: NeoVim 
-
 Terminal: Ghostty 
 
 
