@@ -5,6 +5,5 @@ I am currently studying Computer Engineering at Åbo Akademi University. I like 
  * Currently working on my C/C++ and hardware engineering knowledge.
 
 ## Reach me 
-Email: robin.kontinen@gmail.com
-
+Email: robin@rkonti.com
 LinkedIn: https://www.linkedin.com/in/robin-kontinen/
