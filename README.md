@@ -6,4 +6,5 @@ I am currently studying Computer Engineering at Åbo Akademi University. I like 
 
 ## Reach me 
 Email: robin@rkonti.com
+
 LinkedIn: https://www.linkedin.com/in/robin-kontinen/
