@@ -1,10 +1,24 @@
-Hi there and Welcome! 👋
+# Hi there and welcome! 👋 
+```console 
+robin@github:~$ whoami 
+Robin Kontinen 
 
-## whoami 
-I am currently studying Computer Engineering at Åbo Akademi University. I like everything about computers and during my free time I play a lot of strategy games.
- * Currently working on my C/C++ and hardware engineering knowledge.
+robin@github:~$ cat about.txt 
+Computer Engineering student @ Åbo Akademi University 
+Interested in software, systems, hardware, and infrastructure. 
+Occasionally spends too much time configuring Linux. 
 
-## Reach me 
-Email: robin@rkonti.com
+robin@github:~$ cat interests.txt 
+> Software Engineering 
+> DevOps / DevSecOps 
+> Linux 
+> Hardware 
+> Homelabbing 
+> Strategy Games 
 
-LinkedIn: https://www.linkedin.com/in/robin-kontinen/
+robin@github:~$ cat contact.txt 
+Email : robin@rkonti.com 
+LinkedIn : https://www.linkedin.com/in/robin-kontinen/ 
+
+robin@github:~$ █
+```
