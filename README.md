@@ -10,10 +10,8 @@ Occasionally spends too much time configuring Linux.
 
 robin@github:~$ cat interests.txt 
 > Software Engineering 
-> DevOps / DevSecOps 
 > Linux 
 > Hardware 
-> Homelabbing 
 > Strategy Games 
 
 robin@github:~$ cat contact.txt 
